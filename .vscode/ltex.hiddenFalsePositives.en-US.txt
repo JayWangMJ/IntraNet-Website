@@ -1,0 +1,1 @@
+{"rule":"IN_THE_INTERNET","sentence":"^\\QOn the right left corner you can find the navigation bar and a search function button to search all content in the website.\\E$"}

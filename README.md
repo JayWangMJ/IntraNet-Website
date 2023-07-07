@@ -1,50 +1,62 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# [Intranet Research Lab Website](https://intranetlab.netlify.app/)
 
-TEST
+This repository holds the [website](https://intranetlab.netlify.app/) for the **In**novative **Tran**sportation and **Net**works (Intranet) Lab. The static website is built with [Hugo](https://github.com/gohugoio/hugo), and is deployed with [Netlify](https://www.netlify.com/). The template comes from [Wowchemy](https://wowchemy.com). 
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+## The components of the website
+- The first time you go to the website, you will see a *tour page*. We try to introduce our team and impress the viewer in three pages. 
+- In the top left corner you will see the logo of our team. Clicking it will route you to the initial tour page. On the right left corner you can find the navigation bar and a search function button to search all content in the website.
+- In the *home page* we will introduce our team. We will then show some recent news (all news are in news page). At the bottom the 'meet the team' button can route the viewer to people page. 
+- The *people page* lists all team members. [See instructions here](#update-people-profile) on how to modify your profile.
+- The *research page* lists all ongoing and previous research projects. [See instructions here](#update-research-projects) to create a project introduction.
+- The *news page* contains all news and blogs. You can post your own blogs. [See instructions here](#update-news). `Do we really need this page`?
+- The *publication page* lists all our results related to the lab. [See here for instructions](#update-publications) on how to upload your work.
+- The *relevant works page* shows some important research results by others. 
+- The *contact page* tells others how to contact us. We can post some hiring ads here.
+- `?` Should we include a *teaching page* so the students can attend the relevant courses if they are interested. 
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## How to update the website
+Netlify makes it easy to update the website content. The CI/CD platform, linked to this Github repo, will automatically compile and deploy the website if the content is modified. Therefore, you can directly modify the `markdown` files (or the configuration `yaml` files if you know what you are doing). The changes will automatically appear on the website.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+### Update people profile
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+A typical profile looks like this in the *people page*:
+![profile](./images/profile.png)
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+It shows some basic info including name, avatar, title, and contact information.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+Clicking the avatar will redirect you to the detailed profile where a short bio, research interests, education experience, and recent works would be shown.
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+OK, how do I create/modify my profile?
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+Go to `./content/authors`, you create `a folder with your name`, under that folder, create a `_index.md` file, upload your most beautiful photo, name it with `avatar.jpg`, and copy the codes in `../admin/_index.md`. Read the comments. Remember to change everything to avoid plagiarism. Set `superuser: false`.
 
-## We ask you, humbly, to support this open source movement
+### Update research projects
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+`TODO`
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### Update news
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+`TODO`
 
-## Demo credits
+### Update publications
 
-Please replace the demo images with your own.
+`TODO`
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+### Update relevant works
+
+`TODO`
+
+## TODOs
+-  Update everything according to [above design](#the-components-of-the-website)
+
+    Upload all team member profiles, projects, publications...
+
+- Finish this readme
+- Design a logo
+- Come up with some nice short sentences for the tour page and home page
+- Test and fix any bug or inconsistency
+- ...
+- Discussions:
+  - Do we need the news page?
+  - Should we include a teaching page?
+  - Improve the structure to make it more impressive?

@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Ongoing and Previous Research Porjects
 
 # Listing view
 view: compact
