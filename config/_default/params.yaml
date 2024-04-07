@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Innovative Transportation and Networks Lab'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,11 +39,12 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 
 # footer:
+#   block: minimal
 #   copyright:
 #     notice: '© {year} Research Lab'
 #     # license:
@@ -114,5 +115,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format: January 2006
+  date_format: '2006'
   citation_style: apa

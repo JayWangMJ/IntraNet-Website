@@ -1,6 +1,6 @@
 # [Intranet Research Lab Website](https://intranetlab.netlify.app/)
 
-This repository holds the [website](https://intranetlab.netlify.app/) for the **In**novative **Tra**nsportation and **Net**works (Intranet) Lab. The static website is built with [Hugo](https://github.com/gohugoio/hugo), and is deployed with [Netlify](https://www.netlify.com/). The template comes from [Wowchemy](https://wowchemy.com). 
+This repository holds the [website](https://intranetlab.netlify.app/) for the **In**novative **Tra**nsportation and **Net**works (Intranet) Lab. The static website is built with [Hugo](https://github.com/gohugoio/hugo), and is deployed with [Netlify](https://www.netlify.com/). The template comes from [Wowchemy](https://hugoblox.com/) (now called Hugo Blox). 
 
 ## The components of the website
 - The first time you go to the website, you will see a *tour page*. We try to introduce our team and impress the viewer in three pages. 
