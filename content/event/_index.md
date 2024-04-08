@@ -1,8 +1,8 @@
 ---
-title: Ongoing and Previous Research Porjects
+title: Latest News
 
 # Listing view
-view: compact
+view: card
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

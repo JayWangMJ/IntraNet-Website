@@ -8,11 +8,11 @@ This repository holds the [website](https://intranetlab.netlify.app/) for the **
 - In the *home page* we will introduce our team. We will then show some recent news (all news are in news page). At the bottom the 'meet the team' button can route the viewer to people page. 
 - The *people page* lists all team members. [See instructions here](#update-people-profile) on how to modify your profile.
 - The *research page* lists all ongoing and previous research projects. [See instructions here](#update-research-projects) to create a project introduction.
-- The *news page* contains all news and blogs. You can post your own blogs. [See instructions here](#update-news). `Do we really need this page`?
+- The *news page* contains all news and blogs. You can post your own blogs. [See instructions here](#update-news).?
 - The *publication page* lists all our results related to the lab. [See here for instructions](#update-publications) on how to upload your work.
-- The *relevant works page* shows some important research results by others. 
+- The *teaching* shows courses taught by us. 
 - The *contact page* tells others how to contact us. We can post some hiring ads here.
-- `?` Should we include a *teaching page* so the students can attend the relevant courses if they are interested. 
+ 
 
 ## How to update the website
 Hugo makes it easy to update the website content. The CI/CD platform, Netlify, linked to this Github repo, will automatically compile and deploy the website if the content is modified. Therefore, one can directly modify the `markdown` files (or the configuration `yaml` files if you know what you are doing). The changes will automatically appear on the website if they are merged to the main branch.
@@ -33,6 +33,7 @@ Clicking the avatar will redirect you to the detailed profile where a short bio,
 3. Under `/content/authors/your name`, create a `_index.md` file, where you write things about yourself. An example is given under `../costas/_index.md`. You can directly copy the codes and make necessary changes. The comments in the code specify the role of each line. 
 4. Upload your photo to the same folder and name it with `avatar`, currently known supported formats are `jpg` and `png`.   
 5. Publications and profiles are decoupled. You don't have to write publications in profile. Instead, after you [create new publication](#update-publications) in `/content/publication`, it would automatically show under corresponding authors. 
+6. Check [official document](https://docs.hugoblox.com/tutorial/resume/step-2/) for help.
 
 ### Update research projects
 
@@ -49,10 +50,11 @@ All publications would be shown in `Publications` page, where there is a filter 
 #### Steps to create/update a publication
 1. Each publication corresponds to a folder under `/content/publication`.
 2. Create a new folder or find the folder under `/content/publication`, remember to name the folder in a way that is easy to recognize.
-3. Under `/content/publication/your publication folder`, create a `index.md` file which includes basic info, abstract of the publication. Different examples are given, including sample `conference-paper`, sample `journal-article`, and sample `preprint`. Read the comments in the code and you will figure out what to do.
+3. Under `/content/publication/your publication folder`, create a `index.md` file which includes basic info, abstract of the publication. Different examples are given, including sample `conference-paper`, sample `journal-article`, and sample `preprint`. Read the comments in the code and you will figure out what to do. `Note`: under `authors` field, you should use the name of your profile file under `/content/authors` to let hugo create links between you and your publication.  
 4. [Optional] Upload feature picture named `featured`. Provide bib citations in `cite.bib`. Other features commented out in `index.md`.
+5. See [official document](https://bootstrap.hugoblox.com/content/publications/) for advanced features.
 
-### Update relevant works
+### Update teaching
 
 `TODO`
 
@@ -65,8 +67,4 @@ All publications would be shown in `Publications` page, where there is a filter 
 - Design a logo
 - Come up with some nice short sentences for the tour page and home page
 - Test and fix any bug or inconsistency
-- ...
-- Discussions:
-  - Do we need the news page?
-  - Should we include a teaching page?
-  - Improve the structure to make it more impressive?
+- Figure out the layout of project/course.

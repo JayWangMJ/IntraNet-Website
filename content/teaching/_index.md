@@ -1,13 +1,11 @@
 ---
-title: Previous and Ongoing Projects
+title: Courses
 
 # Listing view
-view: card
+view: list
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
   image: ''
 ---
-
-This page list our previous and ongoing projects.
