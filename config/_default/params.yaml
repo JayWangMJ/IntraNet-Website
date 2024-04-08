@@ -43,15 +43,17 @@ header:
 
 # Site footer
 
-# footer:
-#   block: minimal
-#   copyright:
-#     notice: '© {year} Research Lab'
-#     # license:
-#     #   enable: false
-#     #   allow_derivatives: false
-#     #   share_alike: true
-#     #   allow_commercial: false
+footer:
+  block: minimal
+  copyright:
+    notice: '© {year} SMGE Research Lab'
+    # license:
+    #   enable: false
+    #   allow_derivatives: false
+    #   share_alike: true
+    #   allow_commercial: false
+
+i_am_a_sponsor: true
 
 # Localization
 
