@@ -6,6 +6,10 @@ title: Costas Courcoubetis
 first_name: Costas
 last_name: Courcoubetis
 
+# Username (this should match the folder name)
+authors:
+  - costas
+
 # Is this the primary user of the site?
 superuser: true
 

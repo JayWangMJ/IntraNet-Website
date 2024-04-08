@@ -118,4 +118,4 @@ extensions:
 
 publications:
   date_format: '2006'
-  citation_style: apa
+  citation_style: ieee

@@ -16,8 +16,9 @@ publishDate: '2024-01-01'
 publication_types: ['5']
 
 # Publication name and optional abbreviated publication name.
-publication: Wiley
-publication_short: Wiley
+# use '* *' to italicize 
+publication: '*Wiley*'
+publication_short: '*Wiley*'
 
 abstract: Abstract
 
