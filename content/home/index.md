@@ -1,5 +1,6 @@
 ---
-title: Intranet Research Lab
+# leave the title empty to use site title
+title: 
 date: 2022-10-24
 
 type: landing
