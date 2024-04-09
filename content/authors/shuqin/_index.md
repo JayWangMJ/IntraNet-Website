@@ -3,8 +3,8 @@
 title: shuqin
 
 # Full Name (for SEO)
-first_name: first name
-last_name: last name
+first_name: Shuqin
+last_name: Gao
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: xx
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -24,20 +24,25 @@ organizations:
     url: 'https://www.cuhk.edu.cn/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: xx
+bio: Postdoctoral Researcher of the Chinese University of Hong Kong, Shenzhen.
 
 interests:
-  - xx
-  - xx
+  - Sharing Economy and Mobility
+  - Network Economics 
+  - Mechanism Design
+  - Distributed Resource Sharing
 
 education:
   courses:
-    - course: xx
-      institution: xx
-      year: xx
-    - course: xx
-      institution: xx
-      year: xx
+    - course: Ph.D. in Network Economics
+      institution: Singapore University of Technology and Design, Singapore
+      year: 2017-2022
+    - course: M.S. in Information and Communication Engineering
+      institution: Shanghai Jiao Tong University, China
+      year: 2014-2017
+    - course: B.S. in Information Engineering
+      institution: Shanghai Jiao Tong University, China
+      year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:youremail'
+    link: 'mailto:gaoshuqin@cuhk.edu.cn'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -76,5 +81,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-Biography goes here.
+Shuqin Gao is a postdoctoral researcher of the Chinese University of Hong Kong, Shenzhen. She received the B.S. and M.S. degrees from Shanghai Jiao Tong University, China, in 2014 and 2017, respectively, and the Ph.D. degree from Singapore University of Technology and Design, Singapore, in 2022. Her research interests include sharing economy and mobility, network economics, mechanism design, and distributed resource allocation.
