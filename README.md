@@ -8,11 +8,16 @@ This repository holds the [website](https://intranetlab.netlify.app/) for the **
 - In the *home page* we will introduce our team. We will then show some recent news (all news are in news page). At the bottom the 'meet the team' button can route the viewer to people page. 
 - The *people page* lists all team members. [See instructions here](#update-people-profile) on how to modify your profile.
 - The *research page* lists all ongoing and previous research projects. [See instructions here](#update-research-projects) to create a project introduction.
-- The *news page* contains all news and blogs. You can post your own blogs. [See instructions here](#update-news).?
+- The *news page* contains all news and blogs. You can post your own blogs. [See instructions here](#update-news).
 - The *publication page* lists all our results related to the lab. [See here for instructions](#update-publications) on how to upload your work.
 - The *teaching* shows courses taught by us. 
 - The *contact page* tells others how to contact us. We can post some hiring ads here.
  
+## Features
+- Easy to update. In order to modify the content, one only need to make changes to the markdown files and merge the changes to Github. Then Netlify would automatically complile and publish the new version.
+- (Almost) everything is decoupled. Authors, projects, publications can be independtly modified. The (hyper-)connection between publications and authors, projects are made possbile by `authors` and `projects` fields in corresponding publication file, respectively. In an author's page, every publication of his would be shown. In a project page, all publications related would be listed.
+- Others if you want, please [contanct me](mailto:119010300@link.cuhk.edu.cn).
+
 
 ## How to update the website
 Hugo makes it easy to update the website content. The CI/CD platform, Netlify, linked to this Github repo, will automatically compile and deploy the website if the content is modified. Therefore, one can directly modify the `markdown` files (or the configuration `yaml` files if you know what you are doing). The changes will automatically appear on the website if they are merged to the main branch.
