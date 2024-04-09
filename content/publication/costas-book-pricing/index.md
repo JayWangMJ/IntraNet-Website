@@ -53,8 +53,8 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-#   - internal-project
+projects:
+  - example-project
 
 # trun off social media sharing
 share: false

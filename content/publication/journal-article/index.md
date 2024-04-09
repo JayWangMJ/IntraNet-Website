@@ -1,5 +1,6 @@
 ---
 title: 'An example journal article'
+subtitle: 'Subtitle'
 authors:
   - admin
   - Robert Ford

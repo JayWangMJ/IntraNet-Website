@@ -1,6 +1,6 @@
 ---
 # Display name
-title: shuqin
+title: Shuqin Gao
 
 # Full Name (for SEO)
 first_name: Shuqin

@@ -1,5 +1,5 @@
 ---
-title: News
+title: Previous and Ongoing Projects
 
 # Listing view
 view: card

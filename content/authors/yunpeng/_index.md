@@ -1,5 +1,5 @@
 ---
-# Display name
+# Display name, better to use full name
 title: yunpeng
 
 # Full Name (for SEO)
