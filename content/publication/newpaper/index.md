@@ -1,5 +1,5 @@
 ---
-title: 'Throughput and Pricing of Ridesharing Systems'
+title: 'Throughpusst and Pricing of Ridesharing Systems'
 authors:
   - costas
   - antonis 
@@ -20,10 +20,11 @@ publication_types: ['1']
 publication: '*Infocom 2019*'
 publication_short: '*Infocom 2019*'
 
-abstract: Abstract sds
+# Abstract, optinal
+# abstract: Abstract sds
 
 # Summary. An optional shortened abstract.
-summary: An optional shortened abstract.
+# summary: An optional shortened abstract.
 
 # tags:
 #   - Source Themes
