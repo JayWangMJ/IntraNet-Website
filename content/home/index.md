@@ -12,11 +12,11 @@ sections:
         About us
       align: center
       image:
-        filename: welcome.jpg
+        filename: mobility.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to the **SMGE Research Lab**, where cutting-edge innovation meets real-world impact. At the crossroads of smart mobility, games, and economics, we are driving forward the future of technology and decision-making. Our interdisciplinary team of researchers and problem-solvers is dedicated to creating smarter, more connected systems that enrich lives and transform industries.
   
   - block: collection
     content:
@@ -32,7 +32,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: event
     design:
       view: card
       columns: '1'

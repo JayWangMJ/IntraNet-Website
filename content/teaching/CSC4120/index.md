@@ -10,7 +10,8 @@ authors:
     - costas
 
 # course offerting time
-time: 'Spring semester every year'
+time: 
+    - 'Spring semester every year'
 
 description: 'Basics of algorithm analysis: correctness and time complexity, solving recurrences. Techniques for designing efficient algorithms: divide-and-conquer, dynamic programming. Fundamental search and graph algorithms: binary trees, hashing, graph traversals, shortest paths. Introduction to complexity theory: polynomial-time reductions and NP-completeness.'
 

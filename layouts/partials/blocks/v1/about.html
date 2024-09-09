@@ -123,9 +123,18 @@
 
     </div>
 
+    {{ if $person.biography }}
     <div class="article-style">
-        <div class="section-subheading"> Biography </div> 
-      {{ $person_page.Content }}
+      <div class="section-subheading"> Biography </div> 
+      {{ $person.biography | safeHTML }}
     </div>
+    {{ else }}
+      <br>
+    {{ end }}
+
+  </div>
+  <div class="article-style">
+    <hr>
+    {{ $person_page.Content }}
   </div>
 </div>

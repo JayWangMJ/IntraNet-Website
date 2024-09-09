@@ -26,6 +26,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: xx
 
+# full biography
+biography: 'xx'
+
 interests:
   - xx
   - xx
@@ -77,4 +80,4 @@ user_groups:
   - Faculty
 ---
 
-Biography goes here.
+Put anything you like here in HTML.

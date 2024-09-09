@@ -28,6 +28,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Presidential Chair Professor of the Chinese University of Hong Kong, Shenzhen.
 
+# full biography
+biography: 'Prof. Konstantinos Courcoubetis is a Presidential Chair Professor of the Chinese University of Hong Kong, Shenzhen. He received his diploma from the National Technical University of Athens, Greece in 1977; he later obtained his Master of Science degree and PhD in Electrical Engineering and Computer Science from the University of California, Berkeley.
+<br><br>
+Prior to join CUHK (Shenzhen), Prof. Konstantinos Courcoubetis was a Professor and Associate Head of Pillar in the Engineering Systems and Design Pillar, Singapore University of Technology and Design where he directed the ST-SUTD Centre for Smart Systems and co-directed the LTA-SUTD center for Transportation. Prior to that, from 1999 to 2013 he was a Professor in the Department of Informatics at the Athens University of Economics and Business, and from 1990 to 1999 a Professor in the Computer Science Department at the University of Crete where he also headed the Networks Department in ICS FORTH. While in USA, from 1982 to 1990 he was Member of Technical Staff (MTS) at the Mathematics Research Centre, Bell Laboratories. His current research interests are economics and performance analysis of networks and internet technologies, sharing economy and mobility, regulation policy, smart grids and energy systems, resource sharing and auctions.
+<br><br>
+Prof. Courcoubetis did fundament research in Computer Science in the area of algorithmic verification and is one of the pioneers in defining network economics for data networks in the late 1990s. Besides having led a large number of research projects in these areas, he has published over 100 papers in top scientific journals and conferences in areas that include theoretical computer science, operations research, network economics, regulation policy and telecommunications. He is in the list of the 336 most-cited Greek scientists and in the world’s top 2% scientists. His work has over 16,000 citations according to Google Scholar. He is co-author with Richard Weber of “Pricing Communication Networks: Economics, Technology, and Modelling” (Wiley, 2003).'
+
 interests:
   - Economics and Performance Analysis of Networks and Internet Technologies
   - Sharing Economy and Mobility
@@ -82,13 +89,8 @@ highlight_name: false
 # Check available groups in /content/people/index.md  ![alt text](image.png)
 user_groups:
   - Faculty
+
 ---
-
-Prof. Konstantinos Courcoubetis is a Presidential Chair Professor of the Chinese University of Hong Kong, Shenzhen. He received his diploma from the National Technical University of Athens, Greece in 1977; he later obtained his Master of Science degree and PhD in Electrical Engineering and Computer Science from the University of California, Berkeley.
-
-Prior to join CUHK (Shenzhen), Prof. Konstantinos Courcoubetis was a Professor and Associate Head of Pillar in the Engineering Systems and Design Pillar, Singapore University of Technology and Design where he directed the ST-SUTD Centre for Smart Systems and co-directed the LTA-SUTD center for Transportation. Prior to that, from 1999 to 2013 he was a Professor in the Department of Informatics at the Athens University of Economics and Business, and from 1990 to 1999 a Professor in the Computer Science Department at the University of Crete where he also headed the Networks Department in ICS FORTH. While in USA, from 1982 to 1990 he was Member of Technical Staff (MTS) at the Mathematics Research Centre, Bell Laboratories. His current research interests are economics and performance analysis of networks and internet technologies, sharing economy and mobility, regulation policy, smart grids and energy systems, resource sharing and auctions.
-
-Prof. Courcoubetis did fundament research in Computer Science in the area of algorithmic verification and is one of the pioneers in defining network economics for data networks in the late 1990s. Besides having led a large number of research projects in these areas, he has published over 100 papers in top scientific journals and conferences in areas that include theoretical computer science, operations research, network economics, regulation policy and telecommunications. He is in the list of the 336 most-cited Greek scientists and in the world’s top 2% scientists. His work has over 16,000 citations according to Google Scholar. He is co-author with Richard Weber of “Pricing Communication Networks: Economics, Technology, and Modelling” (Wiley, 2003).
 
 <h1> Publications </h1>
 <h2> A. Books </h2>

@@ -26,6 +26,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Researcher of the Chinese University of Hong Kong, Shenzhen.
 
+biography: Shuqin Gao is a postdoctoral researcher of the Chinese University of Hong Kong, Shenzhen. She received the B.S. and M.S. degrees from Shanghai Jiao Tong University, China, in 2014 and 2017, respectively, and the Ph.D. degree from Singapore University of Technology and Design, Singapore, in 2022. Her research interests include sharing economy and mobility, network economics, mechanism design, and distributed resource allocation.
+
 interests:
   - Sharing Economy and Mobility
   - Network Economics 
@@ -81,4 +83,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-Shuqin Gao is a postdoctoral researcher of the Chinese University of Hong Kong, Shenzhen. She received the B.S. and M.S. degrees from Shanghai Jiao Tong University, China, in 2014 and 2017, respectively, and the Ph.D. degree from Singapore University of Technology and Design, Singapore, in 2022. Her research interests include sharing economy and mobility, network economics, mechanism design, and distributed resource allocation.
+
