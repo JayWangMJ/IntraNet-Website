@@ -14,6 +14,7 @@ time:
     - '2025 Fall'
 
 description: 'Reading course where the professor will provide some initial material and students will choose which topics to develop further according to their interests. Students will present each week several papers.'
+---
 
 We provides a curated list of resources for learning and researching Reinforcement Learning.
 
