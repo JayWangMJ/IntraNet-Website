@@ -14,6 +14,9 @@ time:
     - '2025 Fall'
 
 description: 'Reading course where the professor will provide some initial material and students will choose which topics to develop further according to their interests. Students will present each week several papers.'
+
+# trun off social media sharing
+share: false 
 ---
 
 We provides a curated list of resources for learning and researching Reinforcement Learning.
@@ -44,9 +47,7 @@ We provides a curated list of resources for learning and researching Reinforceme
     * [Link to the paper](https://arxiv.org/pdf/2411.18892)
 
 
-# trun off social media sharing
-share: false    
----
+  
 
 <!-- More introduction goes here -->
 <!-- Support HTML -->
