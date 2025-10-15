@@ -37,7 +37,7 @@ We provides a curated list of resources for learning and researching Reinforceme
     * **Chap 4:** DP formulation.
     * **Chap 6:** Classic RL algorithms (TD learning, Q learning).
     * **Chap 13:** Policy gradient method.
-    *(You might want to add a link to the book's official website or a public PDF if available, for example: [Sutton & Barto's Official Book Page](http://incompleteideas.net/book/the-book-2nd.html))*
+    * [Sutton & Barto's Official Book Page](http://incompleteideas.net/book/the-book-2nd.html)
 
 ---
 
