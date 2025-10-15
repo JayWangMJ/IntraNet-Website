@@ -15,7 +15,7 @@ time:
 
 description: 'Reading course where the professor will provide some initial material and students will choose which topics to develop further according to their interests. Students will present each week several papers.'
 
-This page provides a curated list of resources for learning and researching Reinforcement Learning.
+We provides a curated list of resources for learning and researching Reinforcement Learning.
 
 ## Video Series
 
