@@ -33,12 +33,17 @@ share: false
 </ul>
 
 <h3>General Research Directions and Key Research Areas:</h3>
+<ul>
+    <li>Latent-State Modeling and Inference</li>
+    <li>Adaptive Pedagogical Control</li>
+    <li>Optimization of Scarce Resources</li>
+    <li>Multi-Agent and Game-Theoretic Interaction</li>
+    <li>Assessment, Verification, and Content Generation</li>
+    <li>Ethical and Human-Centered Considerations</li>
+</ul>
 <p>
-    <a href="General_Research_Directions_and_Key_Research_Area.pdf" target="_blank">
-        Click here
-    </a>
+    Click <a href="General_Research_Directions_and_Key_Research_Area.pdf" target="_blank">here</a> for more detailed information.
 </p>
-
 <hr>
 
 <h3>Weekly Presentation Slides</h3>
