@@ -1,5 +1,5 @@
 ---
-title: "Personalized Learning: Research Directions and Reading Material"
+title: "Personalized Learning"
 
 # time of change of this page
 date: 2025-10-15
