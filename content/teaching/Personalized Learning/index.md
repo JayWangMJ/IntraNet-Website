@@ -36,6 +36,11 @@ This is a **reading course** where Prof. Courcoubetis will provide initial mater
 * A final report on a mutually agreed topic.
 
 ---
+### Weekly Presentation Slides
+
+* [Week 1: RL Recap, Latent Space Modelling, Pedagogical Control](https://github.com/JayWangMJ/IntraNet-Website/raw/main/content/teaching/Personalized%20Learning/RL%20Recap_LSM_PC.pdf)
+
+---
 
 ## Research Directions: Towards Adaptive Educational Intelligence
 
