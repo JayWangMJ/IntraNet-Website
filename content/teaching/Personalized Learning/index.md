@@ -49,7 +49,7 @@ share: false
 <h3>Weekly Presentation Slides</h3>
 <ul>
     <li>
-        <a href="Recap_LSM_PC.pdf" target="_blank">
+        <a href="RL_Recap_LSM_PC.pdf" target="_blank">
             Week 1: RL Recap, Latent Space Modelling, Pedagogical Control
         </a>
     </li>
