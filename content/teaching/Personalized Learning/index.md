@@ -20,82 +20,119 @@ share: false
 ---
 
 
-  <h3>Proposed Time</h3>
-  <ul>
+<h3>Proposed Time</h3>
+<ul>
     <li><strong>Friday 2–3:30 PM</strong> (1.5-hour slot on Friday afternoon).</li>
-  </ul>
+</ul>
 
-  <h3>Assessment Mechanism</h3>
-  <ul>
+<h3>Assessment Mechanism</h3>
+<ul>
     <li>Participation in class discussions.</li>
     <li>Quality of weekly presentations.</li>
     <li>A final report on a mutually agreed topic.</li>
-  </ul>
+</ul>
 
-  <h3>General Research Directions and Key Research Areas:</h3>
-  <p>
+<h3>General Research Directions and Key Research Areas:</h3>
+<p>
     <a href="General_Research_Directions_and_Key_Research_Area.pdf" target="_blank">
-      Click here
+        Click here
     </a>
-  </p>
+</p>
 
-  <hr>
+<hr>
 
-  <h3>Weekly Presentation Slides</h3>
-  <ul>
+<h3>Weekly Presentation Slides</h3>
+<ul>
     <li>
-      <a href="RL_Recap_LSM_PC.pdf" target="_blank">
-        Week 1: RL Recap, Latent Space Modelling, Pedagogical Control
-      </a>
+        <a href="https://github.com/JayWangMJ/IntraNet-Website/raw/main/content/teaching/Personalized%20Learning/RL%20Recap_LSM_PC.pdf" target="_blank">
+            Week 1: RL Recap, Latent Space Modelling, Pedagogical Control
+        </a>
     </li>
-  </ul>
+</ul>
 
-  <hr>
+<hr>
 
-  <h2>Background Reading Materials</h2>
+<h2>Background Reading Materials</h2>
 
-  <h3>Video Series</h3>
-  <ul>
+### Reinforcement Learning
+
+<h4>Video Series</h4>
+<ul>
     <li>
-      <strong>Steve Brunton's "Control Bootcamp" series on YouTube.</strong><br>
-      <a href="https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" target="_blank">
-        Link to the playlist
-      </a>
+        <strong>Steve Brunton's "Control Bootcamp" series on YouTube.</strong><br>
+        <a href="https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" target="_blank">
+            Link to the playlist
+        </a>
     </li>
     <li>
-      <strong>Steve Brunton's "Reinforcement Learning" series on YouTube.</strong><br>
-      <a href="https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74" target="_blank">
-        Link to the playlist
-      </a>
+        <strong>Steve Brunton's "Reinforcement Learning" series on YouTube.</strong><br>
+        <a href="https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74" target="_blank">
+            Link to the playlist
+        </a>
     </li>
-  </ul>
+</ul>
 
-  <hr>
-
-  <h3>Textbook</h3>
-  <ul>
+<h4>Textbook</h4>
+<ul>
     <li>
-      <strong>"Reinforcement Learning: An Introduction"</strong> by Richard S. Sutton and Andrew G. Barto.
-      <ul>
-        <li><strong>Chap 3:</strong> Basic MDP formulation.</li>
-        <li><strong>Chap 4:</strong> DP formulation.</li>
-        <li><strong>Chap 6:</strong> Classic RL algorithms (TD learning, Q learning).</li>
-        <li><strong>Chap 13:</strong> Policy gradient method.</li>
-      </ul>
-      <a href="http://incompleteideas.net/book/the-book-2nd.html" target="_blank">
-        Sutton & Barto's Official Book Page
-      </a>
+        <strong>"Reinforcement Learning: An Introduction"</strong> by Richard S. Sutton and Andrew G. Barto.
+        <ul>
+            <li><strong>Chap 3:</strong> Basic MDP formulation.</li>
+            <li><strong>Chap 4:</strong> DP formulation.</li>
+            <li><strong>Chap 6:</strong> Classic RL algorithms (TD learning, Q learning).</li>
+            <li><strong>Chap 13:</strong> Policy gradient method.</li>
+        </ul>
+        <a href="http://incompleteideas.net/book/the-book-2nd.html" target="_blank">
+            Sutton & Barto's Official Book Page
+        </a>
     </li>
-  </ul>
+</ul>
 
-  <hr>
-
-  <h3>Survey Paper</h3>
-  <ul>
+<h4>Survey Paper</h4>
+<ul>
     <li>
-      <em>Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges</em><br>
-      <a href="https://arxiv.org/pdf/2411.18892" target="_blank">Link to the paper</a>
+        <em>Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges</em><br>
+        <a href="https://arxiv.org/pdf/2411.18892" target="_blank">Link to the paper</a>
     </li>
-  </ul>
+</ul>
+
+<hr>
+
+### Game Theory
+
+<h4>Basic Game Theory</h4>
+<ul>
+    <li>
+        <a href="https://www.cs.ubc.ca/~kevinlb/teaching/isci330%20-%202006-7/index.html" target="_blank">Course materials by Kevin Leyton-Brown (UBC)</a>
+    </li>
+</ul>
+
+<h4>Related Videos</h4>
+<ul>
+    <li>
+        YouTube videos 1-17 from the playlist:
+        <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">Game Theory Lectures</a>
+    </li>
+</ul>
+
+<h4>Algorithmic Game Theory</h4>
+<ul>
+    <li>
+        "Twenty Lectures on Algorithmic Game Theory" by Tim Roughgarden, Cambridge Books, Cambridge University Press, 2016.
+        <a href="https://timroughgarden.org/f13/f13.pdf" target="_blank">PDF of the book</a>
+    </li>
+    <li>
+        Lectures on YouTube:
+        <a href="https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4" target="_blank">Algorithmic Game Theory Lectures</a>
+    </li>
+</ul>
+
+<h4>Nash Equilibria Related Material</h4>
+<ul>
+    <li>
+        Videos 18-26 from the playlist:
+        <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">Game Theory Lectures</a>
+    </li>
+</ul>
 
 
