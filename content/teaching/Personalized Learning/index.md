@@ -13,7 +13,7 @@ authors:
 time:
     - '2025 Fall'
 
-description: 'This is a **reading course** where Prof. Courcoubetis will provide initial material, and students will have the opportunity to choose and develop topics further based on their interests. A core component of the course involves students presenting several papers each week.'
+description: 'This is a **reading course** where We will provide initial material, and students will have the opportunity to choose and develop topics further based on their interests. A core component of the course involves students presenting several papers each week.'
 
 # trun off social media sharing
 share: false
@@ -22,7 +22,7 @@ share: false
 
 <h3>Proposed Time</h3>
 <ul>
-    <li><strong>Friday 2–3:30 PM</strong> (1.5-hour slot on Friday afternoon).</li>
+    <li>To be discussed in the class.</li>
 </ul>
 
 <h3>Assessment Mechanism</h3>
