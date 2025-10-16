@@ -19,47 +19,83 @@ description: 'This is a **reading course** where Prof. Courcoubetis will provide
 share: false
 ---
 
-### Proposed Time
 
-* **Friday 2-3:30 PM** (1.5-hour slot on Friday afternoon).
+  <h3>Proposed Time</h3>
+  <ul>
+    <li><strong>Friday 2–3:30 PM</strong> (1.5-hour slot on Friday afternoon).</li>
+  </ul>
 
-### Assessment Mechanism
+  <h3>Assessment Mechanism</h3>
+  <ul>
+    <li>Participation in class discussions.</li>
+    <li>Quality of weekly presentations.</li>
+    <li>A final report on a mutually agreed topic.</li>
+  </ul>
 
-* Participation in class discussions.
-* Quality of weekly presentations.
-* A final report on a mutually agreed topic.
+  <h3>General Research Directions and Key Research Areas:</h3>
+  <p>
+    <a href="General_Research_Directions_and_Key_Research_Area.pdf" target="_blank">
+      Click here
+    </a>
+  </p>
 
-### General Research Directions and Key Research Areas: [click here](https://github.com/JayWangMJ/IntraNet-Website/raw/main/content/teaching/Personalized%20Learning/General%20Research%20Directions%20and%20Key%20Research%20Area.pdf)
----
-### Weekly Presentation Slides
+  <hr>
 
-* [Week 1: RL Recap, Latent Space Modelling, Pedagogical Control](https://github.com/JayWangMJ/IntraNet-Website/raw/main/content/teaching/Personalized%20Learning/RL%20Recap_LSM_PC.pdf)
+  <h3>Weekly Presentation Slides</h3>
+  <ul>
+    <li>
+      <a href="RL_Recap_LSM_PC.pdf" target="_blank">
+        Week 1: RL Recap, Latent Space Modelling, Pedagogical Control
+      </a>
+    </li>
+  </ul>
 
----
+  <hr>
 
-## Background Reading Materials
+  <h2>Background Reading Materials</h2>
 
-### Video Series
+  <h3>Video Series</h3>
+  <ul>
+    <li>
+      <strong>Steve Brunton's "Control Bootcamp" series on YouTube.</strong><br>
+      <a href="https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m" target="_blank">
+        Link to the playlist
+      </a>
+    </li>
+    <li>
+      <strong>Steve Brunton's "Reinforcement Learning" series on YouTube.</strong><br>
+      <a href="https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74" target="_blank">
+        Link to the playlist
+      </a>
+    </li>
+  </ul>
 
-* **Steve Brunton's "Control Bootcamp" series on YouTube.**
-    * [Link to the playlist](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
-* **Steve Brunton's "Reinforcement Learning" series on YouTube.**
-    * [Link to the playlist](https://www.youtube.com/watch?v=0MNVhXEX9to&list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)
+  <hr>
 
----
+  <h3>Textbook</h3>
+  <ul>
+    <li>
+      <strong>"Reinforcement Learning: An Introduction"</strong> by Richard S. Sutton and Andrew G. Barto.
+      <ul>
+        <li><strong>Chap 3:</strong> Basic MDP formulation.</li>
+        <li><strong>Chap 4:</strong> DP formulation.</li>
+        <li><strong>Chap 6:</strong> Classic RL algorithms (TD learning, Q learning).</li>
+        <li><strong>Chap 13:</strong> Policy gradient method.</li>
+      </ul>
+      <a href="http://incompleteideas.net/book/the-book-2nd.html" target="_blank">
+        Sutton & Barto's Official Book Page
+      </a>
+    </li>
+  </ul>
 
-### Textbook
+  <hr>
 
-* **"Reinforcement Learning: An Introduction"** by Richard S. Sutton and Andrew G. Barto.
-    * **Chap 3:** Basic MDP formulation.
-    * **Chap 4:** DP formulation.
-    * **Chap 6:** Classic RL algorithms (TD learning, Q learning).
-    * **Chap 13:** Policy gradient method.
-    * [Sutton & Barto's Official Book Page](http://incompleteideas.net/book/the-book-2nd.html)
+  <h3>Survey Paper</h3>
+  <ul>
+    <li>
+      <em>Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges</em><br>
+      <a href="https://arxiv.org/pdf/2411.18892" target="_blank">Link to the paper</a>
+    </li>
+  </ul>
 
----
 
-### Survey Paper
-
-* ***Comprehensive Survey of Reinforcement Learning: From Algorithms to Practical Challenges***
-    * [Link to the paper](https://arxiv.org/pdf/2411.18892)
