@@ -12,7 +12,7 @@ sections:
         About us
       align: center
       image:
-        filename: welcome.jpg
+        filename: mobility.jpg
       text: |
         <br>
         
