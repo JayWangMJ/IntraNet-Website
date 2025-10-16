@@ -49,7 +49,7 @@ share: false
 <h3>Weekly Presentation Slides</h3>
 <ul>
     <li>
-        <a href="https://github.com/JayWangMJ/IntraNet-Website/raw/main/content/teaching/Personalized%20Learning/RL%20Recap_LSM_PC.pdf" target="_blank">
+        <a href="Personalized%20Learning/RL%20Recap_LSM_PC.pdf" target="_blank">
             Week 1: RL Recap, Latent Space Modelling, Pedagogical Control
         </a>
     </li>
