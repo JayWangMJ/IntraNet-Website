@@ -28,7 +28,7 @@ share: false
 <h3>Assessment Mechanism</h3>
 <ul>
     <li>Participation in class discussions.</li>
-    <li>Quality of weekly presentations. Click <a href="topic_paper.pdf" target="_blank">here</a> for some potential choice of topics and papers.</li>
+    <li>Quality of weekly presentations. Click <a href="topic_papers.pdf" target="_blank">here</a> for some potential choice of topics and papers.</li>
     <li>A final report on a mutually agreed topic.</li>
 </ul>
 
