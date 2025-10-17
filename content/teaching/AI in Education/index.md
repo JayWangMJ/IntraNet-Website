@@ -134,25 +134,10 @@ share: false
     <li>
         <a href="https://www.cs.ubc.ca/~kevinlb/teaching/isci330%20-%202006-7/index.html" target="_blank">Course materials by Kevin Leyton-Brown (UBC)</a>
     </li>
-</ul>
-
-<h4>Related Videos</h4>
-<ul>
+  
     <li>
         YouTube videos 1-17 from the playlist:
         <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">Game Theory Lectures</a>
-    </li>
-</ul>
-
-<h4>Algorithmic Game Theory</h4>
-<ul>
-    <li>
-        "Twenty Lectures on Algorithmic Game Theory" by Tim Roughgarden, Cambridge Books, Cambridge University Press, 2016.
-        <a href="https://timroughgarden.org/f13/f13.pdf" target="_blank">PDF of the book</a>
-    </li>
-    <li>
-        Lectures on YouTube:
-        <a href="https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4" target="_blank">Algorithmic Game Theory Lectures</a>
     </li>
 </ul>
 
