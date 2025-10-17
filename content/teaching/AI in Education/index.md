@@ -130,9 +130,9 @@ share: false
 ### Game Theory
 
 <h4>Basic Game Theory</h4>
-<u1>
+<ul>
     <li>
-        YouTube videos 1-17 from the playlist:
+        Videos 1-17 from the playlist:
         <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">Game Theory Lectures</a>
     </li>
 </ul>
