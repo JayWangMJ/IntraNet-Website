@@ -130,11 +130,6 @@ share: false
 ### Game Theory
 
 <h4>Basic Game Theory</h4>
-<ul>
-    <li>
-        <a href="https://www.cs.ubc.ca/~kevinlb/teaching/isci330%20-%202006-7/index.html" target="_blank">Course materials by Kevin Leyton-Brown (UBC)</a>
-    </li>
-<u1>
   
 <u1>
     <li>
