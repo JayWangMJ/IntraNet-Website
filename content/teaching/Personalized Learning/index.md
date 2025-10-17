@@ -1,9 +1,9 @@
 ---
-title: "Personalized Learning"
+title: "AI in Education"
 
 # time of change of this page
-date: 2025-10-15
-Lastmod: 2025-10-15
+date: 2025-10-15    
+Lastmod: 2025-10-17
 
 # course instruction
 authors:
@@ -68,8 +68,13 @@ share: false
 <h3>Weekly Presentation Slides</h3>
 <ul>
     <li>
+        <a href="./files/introduction.pdf" target="_blank">
+            Week 1_1: Introduction
+        </a>
+    </li>
+    <li>
         <a href="RL_Recap_LSM_PC.pdf" target="_blank">
-            Week 1: RL Recap, Latent Space Modelling, Pedagogical Control
+            Week 1_2: RL Recap, Latent Space Modelling, Pedagogical Control
         </a>
     </li>
 </ul>
