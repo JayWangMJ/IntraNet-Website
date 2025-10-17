@@ -129,20 +129,13 @@ share: false
 
 ### Game Theory
 
-<h4>Basic Game Theory</h4>
+<h4>Video Series</h4>
 <ul>
     <li>
-        Videos 1-17 from the playlist:
-        <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">Game Theory Lectures</a>
+        <strong>Game theory vidoe series on YouTube.</strong><br>
+        <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">
+            Link to the playlist
+        </a>
     </li>
-</ul>
-
-<h4>Nash Equilibria Related Material</h4>
 <ul>
-    <li>
-        Videos 18-26 from the playlist:
-        <a href="https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep" target="_blank">Game Theory Lectures</a>
-    </li>
-</ul>
-
 
