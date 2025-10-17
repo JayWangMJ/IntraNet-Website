@@ -13,12 +13,31 @@ authors:
 time:
     - '2025 Fall'
 
-description: 'This is a **reading course** where We will provide initial material, and students will have the opportunity to choose and develop topics further based on their interests. A core component of the course involves students presenting several papers each week.'
+description: 'This is a **reading course** where we will provide initial material, and students will have the opportunity to choose and develop topics further based on their interests. A core component of the course involves students presenting several papers each week.'
 
 # trun off social media sharing
 share: false
 ---
 
+<div style="text-align:left; margin:20px 0;">
+    <h3> WeChat Group </h3>
+    <p><em>Click the image to view full size</em></p>
+    <a href="wechat_1017.png" target="_blank">
+      <img src="wechat_1017.png" alt="WeChat Group"
+           style="max-width:250px; border-radius:10px; cursor:pointer; transition:transform 0.2s;"
+           onmouseover="this.style.transform='scale(1.05)';"
+           onmouseout="this.style.transform='scale(1)';">
+    </a>
+  </div>
+
+<!-- <h3> WeChat Group </h3>
+<ul>
+    <li>
+        <a href="wechat_1017.png" target="_blank">
+            Scan the code to join
+        </a>
+    </li>
+</ul> -->
 
 <h3>Proposed Time</h3>
 <ul>
