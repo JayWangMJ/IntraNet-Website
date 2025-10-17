@@ -130,7 +130,6 @@ share: false
 ### Game Theory
 
 <h4>Basic Game Theory</h4>
-  
 <u1>
     <li>
         YouTube videos 1-17 from the playlist:
