@@ -13,7 +13,7 @@ authors:
 time:
     - '2025 Fall'
 
-description: 'This is a **reading course** where We will provide initial material, and students will have the opportunity to choose and develop topics further based on their interests. A core component of the course involves students presenting several papers each week.'
+description: 'This is a **reading course** where we will provide initial material, and students will have the opportunity to choose and develop topics further based on their interests. A core component of the course involves students presenting several papers each week.'
 
 # trun off social media sharing
 share: false
