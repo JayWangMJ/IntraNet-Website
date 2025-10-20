@@ -92,6 +92,8 @@ user_groups:
 
 ---
 
+<p> aaaaa s</p>
+
 <h1> Publications </h1>
 <h2> A. Books </h2>
   <p> "Pricing Communication Networks: Economics, Technology and Modelling", Wiley 2003, with R.R. Weber (Cambridge University). </p>
