@@ -65,9 +65,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: globe
+    icon_pack: custom
+    link: https://mypage.cuhk.edu.cn/academics/costas/
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -91,9 +91,6 @@ user_groups:
   - Faculty
 
 ---
-hello
-
-<p> aaaaa s</p>
 
 <h1> Publications </h1>
 <h2> A. Books </h2>

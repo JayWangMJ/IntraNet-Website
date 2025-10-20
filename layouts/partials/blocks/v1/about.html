@@ -64,7 +64,7 @@
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}
         {{ $pack_prefix := $pack }}
-        {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+        {{ if in (slice "fab" "fas" "far" "fal" "custom") $pack }}
           {{ $pack_prefix = "fa" }}
         {{ end }}
         {{ $link := .link }}
@@ -77,7 +77,11 @@
         {{ end }}
         <li>
           <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ .icon }}">
+            {{ if eq $pack "custom" }}
+              <img src="{{ printf "/icons/%s.svg" .icon }}" alt="{{ .icon }}" class="big-icon" width="44" height="44">
+            {{ else }}
             <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} big-icon"></i>
+            {{ end }}
           </a>
         </li>
         {{ end }}
