@@ -77,6 +77,11 @@ share: false
             Week 1_2: RL Recap, Latent Space Modelling, Pedagogical Control
         </a>
     </li>
+      <li>
+        <a href="DLMs.pdf" target="_blank">
+            Week 2: Diffusion Language Models
+        </a>
+    </li>
 </ul>
 
 <hr>
